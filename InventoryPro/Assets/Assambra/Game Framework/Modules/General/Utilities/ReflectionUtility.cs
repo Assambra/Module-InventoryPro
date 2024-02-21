@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Reflection;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using UnityEngine;
 
 #if NETFX_CORE
 using WinRTLegacy;
 #endif
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public static class ReflectionUtility 
     {

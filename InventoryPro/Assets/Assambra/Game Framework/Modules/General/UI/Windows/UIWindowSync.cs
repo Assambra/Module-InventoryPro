@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Devdog.General.UI
+namespace Assambra.General.UI
 {
     [RequireComponent(typeof(UIWindow))]
     public partial class UIWindowSync : MonoBehaviour

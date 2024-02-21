@@ -2,14 +2,14 @@
 using System.Linq;
 using System.Security;
 using System.Text;
-using Devdog.General.Editors;
-using Devdog.General.Editors.ReflectionDrawers;
-using Devdog.InventoryPro;
+using Assambra.General.Editors;
+using Assambra.General.Editors.ReflectionDrawers;
+using Assambra.InventoryPro;
 using UnityEditor;
 using UnityEngine;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class CraftingBlueprintEditor : ScriptableObjectEditorCrud<CraftingBlueprint>
     {

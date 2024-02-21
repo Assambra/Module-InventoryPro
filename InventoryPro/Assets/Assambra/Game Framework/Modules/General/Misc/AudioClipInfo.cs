@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     [Serializable]
     public class AudioClipInfo

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
 
-namespace Devdog.General.Localization
+namespace Assambra.General.Localization
 {
     public interface ILocalizedObject<T> : ILocalizedObject 
         where T: UnityEngine.Object

@@ -2,7 +2,7 @@
 using UnityEditor;
 using System;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     [CustomEditor(typeof(TriggerRangeHandler), true)]
     [CanEditMultipleObjects]

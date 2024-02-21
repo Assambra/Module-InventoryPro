@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [RequireComponent(typeof(ItemCollectionBase))]
     public partial class CollectionPopulator : MonoBehaviour

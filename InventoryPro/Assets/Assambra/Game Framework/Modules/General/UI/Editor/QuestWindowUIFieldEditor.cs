@@ -1,9 +1,9 @@
 ﻿using System;
-using Devdog.General.UI;
+using Assambra.General.UI;
 using UnityEditor;
 using UnityEngine;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     [CustomPropertyDrawer(typeof(UIWindowField), true)]
     public class QuestWindowUIFieldEditor : PropertyDrawer

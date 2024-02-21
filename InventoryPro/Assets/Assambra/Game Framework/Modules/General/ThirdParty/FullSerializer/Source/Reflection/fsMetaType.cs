@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Reflection;
 using System.Runtime.CompilerServices;
-using Devdog.General.ThirdParty.FullSerializer.Internal;
+using Assambra.General.ThirdParty.FullSerializer.Internal;
 
-namespace Devdog.General.ThirdParty.FullSerializer {
+namespace Assambra.General.ThirdParty.FullSerializer {
     /// <summary>
     /// MetaType contains metadata about a type. This is used by the reflection serializer.
     /// </summary>

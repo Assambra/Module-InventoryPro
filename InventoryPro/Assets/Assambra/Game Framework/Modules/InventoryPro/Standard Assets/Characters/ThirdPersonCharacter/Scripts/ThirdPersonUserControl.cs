@@ -1,10 +1,10 @@
 using System;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine;
 
 
-namespace Devdog.InventoryPro.UnityStandardAssets
+namespace Assambra.InventoryPro.UnityStandardAssets
 {
     [RequireComponent(typeof (ThirdPersonCharacter))]
     public class ThirdPersonUserControl : MonoBehaviour, IPlayerInputCallbacks

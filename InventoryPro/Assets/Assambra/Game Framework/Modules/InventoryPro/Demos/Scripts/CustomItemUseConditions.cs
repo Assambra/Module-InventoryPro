@@ -2,7 +2,7 @@
 using System.Collections;
 
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
 
     public class CustomItemUseConditions : MonoBehaviour

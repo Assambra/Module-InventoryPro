@@ -2,13 +2,13 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.InventoryPro.Dialogs;
-using Devdog.InventoryPro.UI;
+using Assambra.General;
+using Assambra.InventoryPro.Dialogs;
+using Assambra.InventoryPro.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
-    using Devdog.InventoryPro;
+    using Assambra.InventoryPro;
 
     /// <summary>
     /// Used to trigger item pickup, modify the settings in ObjectTriggererHandler.

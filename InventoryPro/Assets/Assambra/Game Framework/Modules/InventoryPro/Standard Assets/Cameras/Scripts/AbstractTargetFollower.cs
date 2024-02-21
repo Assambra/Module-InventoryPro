@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Devdog.InventoryPro.UnityStandardAssets
+namespace Assambra.InventoryPro.UnityStandardAssets
 {
     public abstract class AbstractTargetFollower : MonoBehaviour
     {

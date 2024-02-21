@@ -2,11 +2,11 @@
 using System.Collections;
 using UnityEngine.UI;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.General.UI;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.General.UI;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Windows/Bank")]
     [RequireComponent(typeof(UIWindow))]

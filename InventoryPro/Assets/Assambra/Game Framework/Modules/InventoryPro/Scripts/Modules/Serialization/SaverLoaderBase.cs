@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [HelpURL("http://devdog.nl/documentation/serialization-saving-loading/")]
     public abstract class SaverLoaderBase : MonoBehaviour, IItemsSaver, IItemsLoader

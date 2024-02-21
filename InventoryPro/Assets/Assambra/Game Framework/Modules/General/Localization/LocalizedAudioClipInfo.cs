@@ -1,8 +1,8 @@
 ﻿using System;
-using Devdog.General.Localization;
+using Assambra.General.Localization;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     [Serializable]
     public class LocalizedAudioClipInfo

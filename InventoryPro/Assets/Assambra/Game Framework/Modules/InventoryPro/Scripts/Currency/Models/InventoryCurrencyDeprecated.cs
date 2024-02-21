@@ -1,9 +1,9 @@
 using System;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
-    using Devdog.General.ThirdParty.UniLinq;
+    using Assambra.General.ThirdParty.UniLinq;
 
     [System.Serializable]
     [Obsolete("Replaced by Currency")]

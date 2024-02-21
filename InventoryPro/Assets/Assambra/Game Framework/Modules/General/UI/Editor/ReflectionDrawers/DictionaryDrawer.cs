@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using UnityEngine;
 
-namespace Devdog.General.Editors.ReflectionDrawers
+namespace Assambra.General.Editors.ReflectionDrawers
 {
     public class DictionaryDrawer : DrawerBase, IChildrenDrawer
     {

@@ -2,10 +2,10 @@
 using UnityEditor;
 using System;
 using System.Collections.Generic;
-using Devdog.General.Editors;
-using Devdog.InventoryPro.UI;
+using Assambra.General.Editors;
+using Assambra.InventoryPro.UI;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     using System.Linq;
 

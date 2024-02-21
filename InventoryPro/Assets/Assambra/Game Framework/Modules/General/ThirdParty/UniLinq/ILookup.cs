@@ -27,7 +27,7 @@
 //
 using System.Collections.Generic;
 
-namespace Devdog.General.ThirdParty.UniLinq
+namespace Assambra.General.ThirdParty.UniLinq
 {
 	public interface ILookup<TKey, TElement>: IEnumerable<IGrouping <TKey, TElement>>
 	{

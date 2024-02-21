@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using UnityEngine;
 
-namespace Devdog.General.UI
+namespace Assambra.General.UI
 {
     [RequireComponent(typeof(UIWindow))]
     public partial class TriggerUI : MonoBehaviour

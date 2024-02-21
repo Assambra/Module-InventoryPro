@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro.Demo
+namespace Assambra.InventoryPro.Demo
 {
     [RequireComponent(typeof(Toggle))]
     public partial class UISetContextMenu : MonoBehaviour

@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Collections;
-using Devdog.General;
-using Devdog.General.UI;
+using Assambra.General;
+using Assambra.General.UI;
 using UnityEngine;
 
 #if UNITY_5_5_OR_NEWER
 using UnityEngine.AI;
 #endif
 
-namespace Devdog.InventoryPro.Demo
+namespace Assambra.InventoryPro.Demo
 {
     [RequireComponent(typeof(SelectableObjectInfo))]
     [RequireComponent(typeof(NavMeshAgent))]

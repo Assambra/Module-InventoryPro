@@ -1,15 +1,15 @@
 using System;
 using System.Collections.Generic;
 
-namespace Devdog.General.ThirdParty.FullSerializer {
+namespace Assambra.General.ThirdParty.FullSerializer {
     partial class fsConverterRegistrar {
         public static Speedup.Devdog_General_LocalizedAudioClipInfo_DirectConverter Register_Devdog_General_LocalizedAudioClipInfo;
     }
 }
 
-namespace Devdog.General.ThirdParty.FullSerializer.Speedup {
-    public class Devdog_General_LocalizedAudioClipInfo_DirectConverter : fsDirectConverter<Devdog.General.LocalizedAudioClipInfo> {
-        protected override fsResult DoSerialize(Devdog.General.LocalizedAudioClipInfo model, Dictionary<string, fsData> serialized) {
+namespace Assambra.General.ThirdParty.FullSerializer.Speedup {
+    public class Devdog_General_LocalizedAudioClipInfo_DirectConverter : fsDirectConverter<Assambra.General.LocalizedAudioClipInfo> {
+        protected override fsResult DoSerialize(Assambra.General.LocalizedAudioClipInfo model, Dictionary<string, fsData> serialized) {
             var result = fsResult.Success;
 
             result += SerializeMember(serialized, null, "audioClip", model.audioClip);
@@ -20,7 +20,7 @@ namespace Devdog.General.ThirdParty.FullSerializer.Speedup {
             return result;
         }
 
-        protected override fsResult DoDeserialize(Dictionary<string, fsData> data, ref Devdog.General.LocalizedAudioClipInfo model) {
+        protected override fsResult DoDeserialize(Dictionary<string, fsData> data, ref Assambra.General.LocalizedAudioClipInfo model) {
             var result = fsResult.Success;
 
             var t0 = model.audioClip;
@@ -43,7 +43,7 @@ namespace Devdog.General.ThirdParty.FullSerializer.Speedup {
         }
 
         public override object CreateInstance(fsData data, Type storageType) {
-            return new Devdog.General.LocalizedAudioClipInfo();
+            return new Assambra.General.LocalizedAudioClipInfo();
         }
     }
 }

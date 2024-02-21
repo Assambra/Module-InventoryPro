@@ -1,12 +1,12 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// Used to represent a pouch that contains items. When the user uses the item it will add items to the player's inventory.

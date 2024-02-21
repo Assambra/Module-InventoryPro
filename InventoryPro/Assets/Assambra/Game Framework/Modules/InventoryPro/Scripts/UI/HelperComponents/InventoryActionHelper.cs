@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text.RegularExpressions;
-using Devdog.General;
-using Devdog.General.UI;
-using Devdog.InventoryPro.UI;
+using Assambra.General;
+using Assambra.General.UI;
+using Assambra.InventoryPro.UI;
 using UnityEngine;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
-    using Devdog.InventoryPro.Dialogs;
+    using Assambra.InventoryPro.Dialogs;
 
     /// <summary>
     /// Convenience methods to use with Unity UI

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devdog.General.ThirdParty.FullSerializer {
+namespace Assambra.General.ThirdParty.FullSerializer {
     /// <summary>
     /// The serialization converter allows for customization of the serialization process.
     /// </summary>

@@ -4,7 +4,7 @@ using UnityEditor;
 using System.Collections.Generic;
 
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class DocumentationLinkEditor : EditorWindow
     {

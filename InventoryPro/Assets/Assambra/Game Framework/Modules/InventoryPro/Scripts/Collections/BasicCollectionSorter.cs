@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// Simple collection sorter that sorts all items based on type name, category name and item name (in that order).

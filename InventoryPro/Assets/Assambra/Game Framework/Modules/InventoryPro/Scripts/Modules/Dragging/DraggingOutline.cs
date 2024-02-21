@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     [RequireComponent(typeof(Outline))]
     [RequireComponent(typeof(ItemCollectionSlotUIBase))]

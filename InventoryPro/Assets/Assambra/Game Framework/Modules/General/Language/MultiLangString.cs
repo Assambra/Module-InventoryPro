@@ -3,7 +3,7 @@ using UnityEngine;
 using System.Collections;
 
 
-namespace Devdog.General
+namespace Assambra.General
 {
     [System.Serializable]
     public class MultiLangString

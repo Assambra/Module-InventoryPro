@@ -1,8 +1,8 @@
 ﻿using System;
 using UnityEngine;
-using Devdog.General.UI;
+using Assambra.General.UI;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public partial class Trigger : TriggerBase
     {

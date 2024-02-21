@@ -2,12 +2,12 @@
 using UnityEditor;
 using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.InventoryPro;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.InventoryPro;
 using UnityEditorInternal;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(InventoryPlayerBase), true)]
     public class InventoryPlayerBaseEditor : InventoryEditorBase

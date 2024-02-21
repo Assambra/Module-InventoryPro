@@ -4,7 +4,7 @@ using System.Collections.Specialized;
 using System.Net;
 using UnityEditor;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public class ProductLookup
     {

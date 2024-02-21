@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devdog.General.ThirdParty.FullSerializer {
+namespace Assambra.General.ThirdParty.FullSerializer {
     /// <summary>
     /// This attribute controls some serialization behavior for a type. See the comments
     /// on each of the fields for more information.

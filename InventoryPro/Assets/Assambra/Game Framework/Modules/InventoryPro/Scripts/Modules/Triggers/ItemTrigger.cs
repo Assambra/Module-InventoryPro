@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public class ItemTrigger : TriggerBase
     {

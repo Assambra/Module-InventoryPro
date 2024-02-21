@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine;
 
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [System.Serializable]
     [CreateAssetMenu(fileName = "LanguageDatabase.asset", menuName = InventoryPro.ProductName + "/Language Database")]

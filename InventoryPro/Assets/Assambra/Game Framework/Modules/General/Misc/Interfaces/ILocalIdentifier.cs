@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public interface ILocalIdentifier : IEquatable<ILocalIdentifier>
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public static class EditorStyles
     {

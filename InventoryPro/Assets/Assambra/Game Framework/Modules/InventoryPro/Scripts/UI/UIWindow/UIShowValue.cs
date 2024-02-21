@@ -1,9 +1,9 @@
 ﻿using System;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     [System.Serializable]
     public partial class UIShowValue

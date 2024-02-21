@@ -4,10 +4,10 @@
 // */
 using UnityEngine;
 using System.Collections;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Managers/Inventory Settings manager")]
     public partial class InventorySettingsManager : ManagerBase<InventorySettingsManager>

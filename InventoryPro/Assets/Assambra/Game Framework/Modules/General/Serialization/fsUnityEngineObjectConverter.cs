@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.FullSerializer;
+using Assambra.General.ThirdParty.FullSerializer;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public class fsUnityEngineObjectConverter : fsConverter
     {

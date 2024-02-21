@@ -2,15 +2,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Player/Inventory player")]
-    [RequireComponent(typeof(Devdog.General.Player))]
+    [RequireComponent(typeof(Assambra.General.Player))]
     public partial class InventoryPlayer : InventoryPlayerBase, IEquippableCharacter
     {
 //        public delegate void PickedUpItem(uint itemID, uint itemAmount);

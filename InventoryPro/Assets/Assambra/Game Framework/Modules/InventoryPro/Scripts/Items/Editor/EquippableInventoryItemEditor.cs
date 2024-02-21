@@ -3,13 +3,13 @@ using UnityEditor;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Devdog.General.Editors;
-using Devdog.InventoryPro;
+using Assambra.General.Editors;
+using Assambra.InventoryPro;
 using UnityEngine.Assertions;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 using EditorUtility = UnityEditor.EditorUtility;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(EquippableInventoryItem), true)]
     public class EquippableInventoryItemEditor : InventoryItemBaseEditor

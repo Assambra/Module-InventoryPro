@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using System.Net;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public abstract class GettingStartedEditorBase : EditorWindow
     {
@@ -131,7 +131,7 @@ namespace Devdog.General.Editors
             const int offset = 30;
             int offsetY = offset + (spacing * index) + (64 * index);
 
-            GUI.BeginGroup(new Rect(10, offsetY, SingleColWidth - 20, 64 + heightExtra), Devdog.General.Editors.EditorStyles.boxStyle);
+            GUI.BeginGroup(new Rect(10, offsetY, SingleColWidth - 20, 64 + heightExtra), Assambra.General.Editors.EditorStyles.boxStyle);
 
             var rect = new Rect(0, 0, SingleColWidth - 20, 64 + heightExtra);
             if (GUI.Button(rect, GUIContent.none, GUIStyle.none))

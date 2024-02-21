@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace Devdog.General.ThirdParty.FullSerializer {
+namespace Assambra.General.ThirdParty.FullSerializer {
     /// <summary>
     /// The actual type that a JsonData instance can store.
     /// </summary>

@@ -4,18 +4,18 @@ using UnityEngine;
 using UnityEditor;
 using System.Net;
 using System.Reflection;
-using Devdog.General;
-using Devdog.General.Editors;
-using Devdog.General.Editors.GameRules;
-using Devdog.General.Localization;
-using Devdog.InventoryPro.Dialogs;
+using Assambra.General;
+using Assambra.General.Editors;
+using Assambra.General.Editors.GameRules;
+using Assambra.General.Localization;
+using Assambra.InventoryPro.Dialogs;
 using UnityEditor.Callbacks;
 using UnityEngine.Assertions;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using EditorStyles = UnityEditor.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [InitializeOnLoad]
     public class EasySetupEditor : EditorWindow
@@ -131,7 +131,7 @@ namespace Devdog.InventoryPro.Editors
                             generalSettingsManager.settings = ScriptableObjectUtility.CreateAsset<GeneralSettings>(path, "GeneralSettings.asset", false);
                             var dbField = typeof(LocalizationManager).GetField("_databases", BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Public);
                             Assert.IsNotNull(dbField, "Couldn't find _databases on LocalizationManager!");
-                            var enUs = ScriptableObjectUtility.CreateAsset<Devdog.General.Localization.LocalizationDatabase>(path, "enUS.asset", false);
+                            var enUs = ScriptableObjectUtility.CreateAsset<Assambra.General.Localization.LocalizationDatabase>(path, "enUS.asset", false);
                             enUs.lang = "en-US";
                             dbField.SetValue(localizationManager, new [] { enUs });
 

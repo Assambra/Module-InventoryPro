@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using UnityEngine.EventSystems;
 
-namespace Devdog.General.UI
+namespace Assambra.General.UI
 {
     /// <summary>
     /// A page inside an UIWindow. When a tab is clicked the insides of the window are changed, this is a page.

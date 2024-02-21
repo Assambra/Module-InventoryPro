@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public interface ICollectionItem
     {

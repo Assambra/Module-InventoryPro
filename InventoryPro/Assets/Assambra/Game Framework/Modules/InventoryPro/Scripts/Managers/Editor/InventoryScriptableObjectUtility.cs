@@ -2,10 +2,10 @@
 using UnityEngine;
 using System.Collections;
 using UnityEditor;
-using Devdog.General;
+using Assambra.General;
 using EditorUtility = UnityEditor.EditorUtility;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public static class InventoryScriptableObjectUtility
     {

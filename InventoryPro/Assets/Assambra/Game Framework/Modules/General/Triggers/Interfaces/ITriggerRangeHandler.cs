@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public interface ITriggerRangeHandler
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Devdog.General.Editors.GameRules
+namespace Assambra.General.Editors.GameRules
 {
     public class GameRuleAction
     {

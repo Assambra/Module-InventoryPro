@@ -1,10 +1,10 @@
 ﻿using System;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 using UnityEngine;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using UnityEngine.Serialization;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
 
     [System.Serializable]

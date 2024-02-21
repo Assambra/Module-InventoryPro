@@ -5,7 +5,7 @@ using System.Text;
 using UnityEditor;
 using UnityEngine;
 
-namespace Devdog.General.Localization.Editors
+namespace Assambra.General.Localization.Editors
 {
     public class LocalizationEditorWindow : EditorWindow
     {
@@ -87,7 +87,7 @@ namespace Devdog.General.Localization.Editors
             rect.y += rect.height;
 
             rect.height = 20f;
-            _searchQuery = Devdog.General.Editors.EditorStyles.SearchBar(rect, _searchQuery, this, _isSearching);
+            _searchQuery = Assambra.General.Editors.EditorStyles.SearchBar(rect, _searchQuery, this, _isSearching);
             rect.y += rect.height;
 
             rect.height = position.height + 100f;

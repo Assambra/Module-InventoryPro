@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General;
-using Devdog.General.UI;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.General.UI;
+using Assambra.InventoryPro;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     /// <summary>
     /// Used to define a category of stats.

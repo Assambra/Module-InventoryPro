@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace Devdog.InventoryPro.UnityStandardAssets
+namespace Assambra.InventoryPro.UnityStandardAssets
 {
     public class ProtectCameraFromWallClip : MonoBehaviour
     {

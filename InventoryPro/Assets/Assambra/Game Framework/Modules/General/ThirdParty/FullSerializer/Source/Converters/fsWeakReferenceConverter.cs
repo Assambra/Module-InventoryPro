@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devdog.General.ThirdParty.FullSerializer.Internal {
+namespace Assambra.General.ThirdParty.FullSerializer.Internal {
     /// <summary>
     /// Serializes and deserializes WeakReferences.
     /// </summary>

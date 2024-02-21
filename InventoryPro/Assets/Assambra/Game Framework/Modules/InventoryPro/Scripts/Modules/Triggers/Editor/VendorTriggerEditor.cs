@@ -2,7 +2,7 @@
 using UnityEditor;
 using System;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(VendorTrigger), true)]
     public class VendorTriggerEditor : Editor

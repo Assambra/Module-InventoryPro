@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Windows/Inventory bags")]
     public partial class InventoryBagsUI : ItemCollectionBase, ICollectionExtender

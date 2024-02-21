@@ -1,14 +1,14 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Devdog.General.Editors;
-using Devdog.InventoryPro;
+using Assambra.General.Editors;
+using Assambra.InventoryPro;
 using UnityEditor;
 using UnityEngine;
 using EditorUtility = UnityEditor.EditorUtility;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class ItemRarityEditor : ScriptableObjectEditorCrud<ItemRarity>
     {

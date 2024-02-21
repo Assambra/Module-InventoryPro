@@ -2,15 +2,15 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.General.UI;
-using Devdog.InventoryPro;
-using Devdog.InventoryPro.UI;
+using Assambra.General;
+using Assambra.General.UI;
+using Assambra.InventoryPro;
+using Assambra.InventoryPro.UI;
 using UnityEngine.Serialization;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
-    using Devdog.General.ThirdParty.UniLinq;
+    using Assambra.General.ThirdParty.UniLinq;
 
     [HelpURL("http://devdog.nl/documentation/lootables-generators/")]
     [RequireComponent(typeof(Animator))]

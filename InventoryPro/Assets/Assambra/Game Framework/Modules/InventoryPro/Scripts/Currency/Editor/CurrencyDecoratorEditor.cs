@@ -2,10 +2,10 @@
 using UnityEditor;
 using System;
 using System.Collections.Generic;
-using Devdog.General.Editors;
-using Devdog.InventoryPro;
+using Assambra.General.Editors;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
 
     [CustomPropertyDrawer(typeof(CurrencyDecorator), true)]

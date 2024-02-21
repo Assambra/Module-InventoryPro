@@ -1,8 +1,8 @@
 ﻿using System;
 using UnityEngine;
-using Devdog.General;
+using Assambra.General;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// A physical representation of a crafting station.

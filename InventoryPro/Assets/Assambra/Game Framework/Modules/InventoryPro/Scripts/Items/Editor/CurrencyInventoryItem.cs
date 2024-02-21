@@ -3,10 +3,10 @@ using UnityEditor;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Devdog.General.Editors;
-using Devdog.InventoryPro;
+using Assambra.General.Editors;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(CurrencyInventoryItem), true)]
     public class CurrencyInventoryItemEditor : InventoryItemBaseEditor

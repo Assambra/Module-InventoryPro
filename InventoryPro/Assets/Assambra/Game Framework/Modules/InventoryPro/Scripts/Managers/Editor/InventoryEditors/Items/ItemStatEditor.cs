@@ -2,16 +2,16 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Devdog.General.Editors;
-using Devdog.InventoryPro;
-using Devdog.InventoryPro.UI;
+using Assambra.General.Editors;
+using Assambra.InventoryPro;
+using Assambra.InventoryPro.UI;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 using EditorUtility = UnityEditor.EditorUtility;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class ItemStatEditor : ScriptableObjectEditorCrud<StatDefinition>
     {
@@ -120,7 +120,7 @@ namespace Devdog.InventoryPro.Editors
             EditorGUILayout.Space();
 
 
-            using (new Devdog.General.Editors.ColorBlock(Color.grey, statDef.enabled == false))
+            using (new Assambra.General.Editors.ColorBlock(Color.grey, statDef.enabled == false))
             {
 
                 statDef.showInUI = EditorGUILayout.Toggle("Show in UI", statDef.showInUI);
@@ -185,7 +185,7 @@ namespace Devdog.InventoryPro.Editors
                 float width = 550f;
                 if (_selectedLevel != null)
                 {
-                    GUILayout.Label("Level options: ", Devdog.General.Editors.EditorStyles.titleStyle);
+                    GUILayout.Label("Level options: ", Assambra.General.Editors.EditorStyles.titleStyle);
                     GUILayout.Label("Level: " + (currentLevelIndex + 1));
 
                     GUILayout.Space(10f);

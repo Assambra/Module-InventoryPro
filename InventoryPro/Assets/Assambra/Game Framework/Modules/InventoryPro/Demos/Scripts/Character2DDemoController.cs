@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 
-namespace Devdog.InventoryPro.Demo
+namespace Assambra.InventoryPro.Demo
 {
     [RequireComponent(typeof(Rigidbody2D))]
     public partial class Character2DDemoController : MonoBehaviour, IPlayerInputCallbacks

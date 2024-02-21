@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 
-namespace Devdog.InventoryPro.Demo
+namespace Assambra.InventoryPro.Demo
 {
     [RequireComponent(typeof(Trigger))]
     public class MyCustomCollectionTrigger : MonoBehaviour, IInventoryItemContainer, ITriggerCallbacks

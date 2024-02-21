@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Other/Inventory item container generator")]
     public partial class InventoryItemContainerGenerator : MonoBehaviour, IInventoryItemContainerGenerator

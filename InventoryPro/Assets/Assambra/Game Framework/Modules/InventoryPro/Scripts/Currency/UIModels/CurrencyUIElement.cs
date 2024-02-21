@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [Serializable]
     public struct CurrencyUIElement

@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.UI;
+using Assambra.General.UI;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public interface ITriggerWindowContainer
     {

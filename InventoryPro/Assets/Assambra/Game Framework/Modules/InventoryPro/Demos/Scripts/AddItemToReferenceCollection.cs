@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 
-namespace Devdog.InventoryPro.Demo
+namespace Assambra.InventoryPro.Demo
 {
 	public class AddItemToReferenceCollection : MonoBehaviour {
 	

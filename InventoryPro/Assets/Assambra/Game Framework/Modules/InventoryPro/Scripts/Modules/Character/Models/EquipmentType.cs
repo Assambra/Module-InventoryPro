@@ -1,9 +1,9 @@
 ﻿using System;
 using UnityEngine;
 using System.Collections;
-using Devdog.General;
+using Assambra.General;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [System.Serializable]
     public partial class EquipmentType : ScriptableObject, IEquatable<EquipmentType>

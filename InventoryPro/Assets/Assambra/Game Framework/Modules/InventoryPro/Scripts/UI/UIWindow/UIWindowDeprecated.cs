@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
-using Devdog.General.UI;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
+using Assambra.General.UI;
 using UnityEngine;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     using UnityEngine.Serialization;
 

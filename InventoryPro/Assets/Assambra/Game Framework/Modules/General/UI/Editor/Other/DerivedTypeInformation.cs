@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Devdog.General.Editors.ReflectionDrawers
+namespace Assambra.General.Editors.ReflectionDrawers
 {
     public class DerivedTypeInformation
     {

@@ -1,10 +1,10 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// Used to represent items that can be used by the player, and once used reduce 1 in stack size. This includes potions, food, scrolls, etc.

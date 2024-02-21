@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using UnityEditor;
 using System;
-using Devdog.General.Editors;
-using Devdog.InventoryPro;
+using Assambra.General.Editors;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
 
     [CustomPropertyDrawer(typeof(ItemFilter), true)]

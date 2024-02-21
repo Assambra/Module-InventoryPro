@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public partial class ItemUsability
     {

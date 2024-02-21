@@ -1,12 +1,12 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
-    using Devdog.General.ThirdParty.UniLinq;
+    using Assambra.General.ThirdParty.UniLinq;
 
     /// <summary>
     /// This is used to represent gold as an item, once the item is picked up gold will be added to the inventory collection.

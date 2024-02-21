@@ -2,12 +2,12 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.General.UI;
-using Devdog.InventoryPro.Dialogs;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General;
+using Assambra.General.UI;
+using Assambra.InventoryPro.Dialogs;
+using Assambra.General.ThirdParty.UniLinq;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
 
     /// <summary>

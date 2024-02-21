@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General;
+using Assambra.General;
 
-namespace Devdog.InventoryPro.Demo
+namespace Assambra.InventoryPro.Demo
 {
     public class LoadLevelOnTriggerEnter : MonoBehaviour
     {

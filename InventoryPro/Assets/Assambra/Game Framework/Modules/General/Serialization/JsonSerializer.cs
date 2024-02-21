@@ -3,10 +3,10 @@ using System.Collections;
 using System;
 using System.Collections.Generic;
 using System.Reflection;
-using Devdog.General.ThirdParty.FullSerializer;
-using Devdog.General.ThirdParty.FullSerializer.Internal;
+using Assambra.General.ThirdParty.FullSerializer;
+using Assambra.General.ThirdParty.FullSerializer.Internal;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public static class JsonSerializer
     {

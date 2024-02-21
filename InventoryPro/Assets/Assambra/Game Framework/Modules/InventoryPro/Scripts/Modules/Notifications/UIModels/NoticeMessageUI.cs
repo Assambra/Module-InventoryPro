@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     /// <summary>
     /// A single message inside the message displayer

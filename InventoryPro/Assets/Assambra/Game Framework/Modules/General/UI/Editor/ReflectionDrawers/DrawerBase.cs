@@ -8,7 +8,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Devdog.General.Editors.ReflectionDrawers
+namespace Assambra.General.Editors.ReflectionDrawers
 {
     public abstract class DrawerBase : IEquatable<DrawerBase>
     {

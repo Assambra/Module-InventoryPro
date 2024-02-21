@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General;
-using Devdog.General.UI;
+using Assambra.General;
+using Assambra.General.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     [RequireComponent(typeof(ItemCollectionBase))]
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "UI Helpers/Item Collection Weight")]

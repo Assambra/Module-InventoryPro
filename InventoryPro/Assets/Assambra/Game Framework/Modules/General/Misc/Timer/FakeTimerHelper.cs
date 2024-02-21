@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public class FakeTimerHelper : ITimerHelper
     {

@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 using System;
 
-namespace Devdog.InventoryPro.Dialogs
+namespace Assambra.InventoryPro.Dialogs
 {
     public enum ItemBuySellDialogAction
     {

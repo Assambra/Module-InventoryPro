@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// Used to define rarity of items.

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     /// <summary>
     /// Used to detect wether an object is relevant to the game or not. 

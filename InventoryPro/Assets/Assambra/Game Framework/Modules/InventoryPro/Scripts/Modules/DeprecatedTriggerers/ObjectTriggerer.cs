@@ -1,10 +1,10 @@
 ﻿using System;
 using UnityEngine;
-using Devdog.General;
-using Devdog.General.UI;
+using Assambra.General;
+using Assambra.General.UI;
 using UnityEngine.Serialization;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [Obsolete("Replaced by Trigger and TriggerBase", true)]
     [ReplacedBy(typeof(Trigger))]

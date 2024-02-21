@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public class AdvancedTrigger : Trigger
     {

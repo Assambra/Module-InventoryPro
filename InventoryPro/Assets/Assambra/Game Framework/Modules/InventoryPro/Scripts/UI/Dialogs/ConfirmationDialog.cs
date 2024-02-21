@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro.Dialogs
+namespace Assambra.InventoryPro.Dialogs
 {
     public partial class ConfirmationDialog : InventoryUIDialogBase
     {

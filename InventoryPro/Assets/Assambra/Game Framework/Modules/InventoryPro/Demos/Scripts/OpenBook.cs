@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General.UI;
+using Assambra.General.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public class OpenBook : MonoBehaviour
     {

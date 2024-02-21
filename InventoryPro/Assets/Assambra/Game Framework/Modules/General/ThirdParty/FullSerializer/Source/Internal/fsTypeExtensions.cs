@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 
 #if !UNITY_EDITOR && UNITY_WSA
 // For System.Reflection.TypeExtensions
@@ -9,7 +9,7 @@ using System.Reflection;
 using Devdog.General.ThirdParty.FullSerializer.Internal;
 #endif
 
-namespace Devdog.General.ThirdParty.FullSerializer {
+namespace Assambra.General.ThirdParty.FullSerializer {
     public static class fsTypeExtensions {
         /// <summary>
         /// Returns a pretty name for the type in the style of one that you'd see in C# without the namespace.

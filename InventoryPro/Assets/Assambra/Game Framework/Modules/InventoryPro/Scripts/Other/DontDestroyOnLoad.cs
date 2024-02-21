@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public class DontDestroyOnLoad : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace Devdog.InventoryPro.UnityStandardAssets
+namespace Assambra.InventoryPro.UnityStandardAssets
 {
 	[RequireComponent(typeof(Rigidbody))]
 	[RequireComponent(typeof(CapsuleCollider))]

@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General;
-using Devdog.General.UI;
+using Assambra.General;
+using Assambra.General.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "UI Helpers/UI Element Key Actions")]
     public partial class UIElementKeyActions : MonoBehaviour

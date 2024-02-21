@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 using UnityEditor;
 using System.Collections;
-using Devdog.General.Editors;
-using Devdog.InventoryPro;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using Assambra.General.Editors;
+using Assambra.InventoryPro;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(EquippableSlot))]
     public class InventoryEquippableFieldEditor : Editor

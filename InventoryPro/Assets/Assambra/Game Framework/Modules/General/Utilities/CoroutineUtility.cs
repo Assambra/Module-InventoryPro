@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public static class CoroutineUtility
     {

@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 
-namespace Devdog.General.ThirdParty.FullSerializer {
+namespace Assambra.General.ThirdParty.FullSerializer {
     /// <summary>
     /// The result of some sort of operation. A result is either successful or not, but if it
     /// is successful then there may be a set of warnings/messages associated with it. These

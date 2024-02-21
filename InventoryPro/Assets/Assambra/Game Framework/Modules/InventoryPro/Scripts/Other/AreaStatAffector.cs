@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General;
+using Assambra.General;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Actions/Area Stat Affector")]
     public class AreaStatAffector : MonoBehaviour

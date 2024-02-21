@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEditor;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public class ModuleList<T>
         where T : class
@@ -77,7 +77,7 @@ namespace Devdog.General.Editors
 
             this.drawHeader = () =>
             {
-                GUILayout.Label(title, Devdog.General.Editors.EditorStyles.titleStyle);
+                GUILayout.Label(title, Assambra.General.Editors.EditorStyles.titleStyle);
                 if (string.IsNullOrEmpty(description) == false)
                 {
                     GUILayout.Label(description, UnityEditor.EditorStyles.wordWrappedLabel);

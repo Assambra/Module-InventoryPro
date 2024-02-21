@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Devdog.General.Editors;
+using Assambra.General.Editors;
 using UnityEditor;
 using UnityEngine;
-using Devdog.InventoryPro;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using Assambra.InventoryPro;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class CurrencyEditor : ScriptableObjectEditorCrud<CurrencyDefinition>
     {

@@ -3,9 +3,9 @@ using System.Collections;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
-    using Devdog.InventoryPro;
+    using Assambra.InventoryPro;
 
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Collection UI/Slot UI Vendor")]
     public partial class ItemCollectionSlotUIVendor : ItemCollectionSlotUI

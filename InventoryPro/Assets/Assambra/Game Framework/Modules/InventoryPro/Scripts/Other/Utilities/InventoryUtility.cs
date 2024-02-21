@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Reflection;
 using System.Text;
-using Devdog.General.UI;
+using Assambra.General.UI;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public partial class InventoryUtility
     {

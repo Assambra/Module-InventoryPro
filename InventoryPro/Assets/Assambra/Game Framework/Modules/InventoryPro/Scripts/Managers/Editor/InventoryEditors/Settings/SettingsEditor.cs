@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using Devdog.General;
-using Devdog.General.Editors;
+using Assambra.General;
+using Assambra.General.Editors;
 using UnityEditor;
 using UnityEngine;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class SettingsEditor : EditorCrudBase<SettingsEditor.Lookup>
     {

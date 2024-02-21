@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [System.Serializable]
     [Obsolete("Replaced by EquipType")]

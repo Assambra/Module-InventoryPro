@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using UnityEngine;
 
-namespace Devdog.General.Localization
+namespace Assambra.General.Localization
 {
     [System.Serializable]
     [CreateAssetMenu(menuName = "Devdog/Localization Database")]

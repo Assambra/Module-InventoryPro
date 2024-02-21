@@ -27,7 +27,7 @@
 //
 using System;
 
-namespace Devdog.General.ThirdParty.UniLinq
+namespace Assambra.General.ThirdParty.UniLinq
 {
 	static class Check
 	{

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Devdog.General.Editors.ReflectionDrawers
+namespace Assambra.General.Editors.ReflectionDrawers
 {
     public abstract class SimpleValueDrawer : DrawerBase
     {

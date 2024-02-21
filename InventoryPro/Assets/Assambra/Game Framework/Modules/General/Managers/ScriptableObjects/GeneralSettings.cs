@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
 using UnityEngine;
 using UnityEngine.Audio;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     [CreateAssetMenu(menuName = "Devdog/General Settings")]
     public class GeneralSettings : ScriptableObject

@@ -30,7 +30,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Devdog.General.ThirdParty.UniLinq
+namespace Assambra.General.ThirdParty.UniLinq
 {
 	abstract class OrderedEnumerable<TElement> : IOrderedEnumerable<TElement>
 	{

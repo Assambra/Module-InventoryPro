@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace Devdog.General.Editors.GameRules
+namespace Assambra.General.Editors.GameRules
 {
     public class GameRulesWindow : BetterEditorWindow
     {
@@ -124,7 +124,7 @@ namespace Devdog.General.Editors.GameRules
 
             if (showRules)
             {
-                EditorGUILayout.BeginVertical(Devdog.General.Editors.EditorStyles.boxStyle);
+                EditorGUILayout.BeginVertical(Assambra.General.Editors.EditorStyles.boxStyle);
 
                 foreach (var rule in allRules)
                 {

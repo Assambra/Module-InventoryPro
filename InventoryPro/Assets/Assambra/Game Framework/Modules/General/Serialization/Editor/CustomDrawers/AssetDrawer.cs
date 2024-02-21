@@ -2,7 +2,7 @@
 using System.Reflection;
 using UnityEngine;
 
-namespace Devdog.General.Editors.ReflectionDrawers
+namespace Assambra.General.Editors.ReflectionDrawers
 {
     [CustomDrawer(typeof(Asset<>))]
     public class AssetDrawer : ChildrenValueDrawerBase

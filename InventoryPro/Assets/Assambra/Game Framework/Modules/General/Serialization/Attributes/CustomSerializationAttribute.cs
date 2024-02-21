@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     [AttributeUsage(AttributeTargets.Field | AttributeTargets.Property)]
     public class CustomSerializationAttribute : Attribute

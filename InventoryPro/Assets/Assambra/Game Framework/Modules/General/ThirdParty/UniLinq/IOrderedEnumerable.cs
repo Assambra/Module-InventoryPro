@@ -28,7 +28,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Devdog.General.ThirdParty.UniLinq
+namespace Assambra.General.ThirdParty.UniLinq
 {
 	public interface IOrderedEnumerable<TElement> : IEnumerable<TElement>
 	{

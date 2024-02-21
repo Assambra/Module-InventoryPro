@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System;
 using System.Collections.Generic;
-using Devdog.General;
+using Assambra.General;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [System.Serializable]
     public struct ItemAmountRow

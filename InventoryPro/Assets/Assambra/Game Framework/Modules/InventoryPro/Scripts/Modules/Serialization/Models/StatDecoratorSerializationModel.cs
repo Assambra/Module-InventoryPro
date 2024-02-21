@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public partial class StatDecoratorSerializationModel
     {

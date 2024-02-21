@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using Devdog.General.Editors.ReflectionDrawers;
+using Assambra.General.Editors.ReflectionDrawers;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Assertions;
 using Object = UnityEngine.Object;
 
-namespace Devdog.General.Localization.Editors
+namespace Assambra.General.Localization.Editors
 {
     /// <summary>
     /// 

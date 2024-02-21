@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devdog.General.ThirdParty.FullSerializer.Internal {
+namespace Assambra.General.ThirdParty.FullSerializer.Internal {
     /// <summary>
     /// Simple option type. This is akin to nullable types.
     /// </summary>

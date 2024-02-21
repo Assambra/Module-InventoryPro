@@ -4,11 +4,11 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using Devdog.General.Editors;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using Assambra.General.Editors;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 using EditorUtility = UnityEditor.EditorUtility;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
 	[CustomEditor(typeof(InventoryItemBase), true)]
 	public class InventoryItemBaseEditor : InventoryEditorBase
@@ -240,14 +240,14 @@ namespace Devdog.InventoryPro.Editors
 				GUI.enabled = false;
 
 			GUI.SetNextControlName("ItemEditor_itemName");
-			Devdog.General.Editors.EditorUtility.EditableLabel(itemName, false, MarkToSave);
+			Assambra.General.Editors.EditorUtility.EditableLabel(itemName, false, MarkToSave);
 
 			GUI.enabled = true;
 
 			if (FindOverride(description.name) != null)
 				GUI.enabled = false;
 
-			Devdog.General.Editors.EditorUtility.EditableLabel(description, true, MarkToSave, "Note, that you can use rich text like <b>asd</b> to write bold text and <i>Potato</i> to write italic text.");
+			Assambra.General.Editors.EditorUtility.EditableLabel(description, true, MarkToSave, "Note, that you can use rich text like <b>asd</b> to write bold text and <i>Potato</i> to write italic text.");
 
 
 			GUI.enabled = true;

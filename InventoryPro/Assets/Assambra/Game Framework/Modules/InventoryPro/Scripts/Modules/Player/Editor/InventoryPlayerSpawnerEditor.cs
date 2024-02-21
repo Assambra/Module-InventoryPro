@@ -3,10 +3,10 @@ using UnityEditor;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 using UnityEditorInternal;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(InventoryPlayerSpawner), true)]
     public class InventoryPlayerSpawnerEditor : InventoryPlayerBaseEditor

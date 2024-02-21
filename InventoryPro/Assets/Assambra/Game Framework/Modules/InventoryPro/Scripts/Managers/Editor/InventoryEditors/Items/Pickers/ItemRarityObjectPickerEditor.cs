@@ -1,9 +1,9 @@
 ﻿using System;
-using Devdog.General.Editors;
+using Assambra.General.Editors;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomObjectPicker(typeof(ItemRarity))]
     public class ItemRarityObjectPickerEditor : InventoryProObjectPickerBase

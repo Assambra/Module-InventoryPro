@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// A helper class that is used to verify if a set of items can be added.

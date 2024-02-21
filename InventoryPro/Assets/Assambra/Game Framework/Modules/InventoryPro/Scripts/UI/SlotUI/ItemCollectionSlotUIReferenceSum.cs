@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Collection UI/Slot UI Reference Sum")]
     public partial class ItemCollectionSlotUIReferenceSum : ItemCollectionSlotUIKeyTrigger

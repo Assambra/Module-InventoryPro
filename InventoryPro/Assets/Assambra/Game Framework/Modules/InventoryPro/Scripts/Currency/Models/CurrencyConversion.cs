@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General;
+using Assambra.General;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [Serializable]
     public class CurrencyConversion

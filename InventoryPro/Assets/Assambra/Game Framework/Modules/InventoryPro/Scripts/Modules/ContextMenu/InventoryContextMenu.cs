@@ -2,13 +2,13 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine.UI;
-using Devdog.General.UI;
-using Devdog.InventoryPro.UI;
+using Assambra.General.UI;
+using Assambra.InventoryPro.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [RequireComponent(typeof(UIWindow))]
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Windows Other/Context menu")]

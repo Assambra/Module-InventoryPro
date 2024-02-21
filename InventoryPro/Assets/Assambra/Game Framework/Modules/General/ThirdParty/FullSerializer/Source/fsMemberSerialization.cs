@@ -1,4 +1,4 @@
-﻿namespace Devdog.General.ThirdParty.FullSerializer {
+﻿namespace Assambra.General.ThirdParty.FullSerializer {
     /// <summary>
     /// Controls how the reflected converter handles member serialization.
     /// </summary>

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEditor;
 
-namespace Devdog.General.Editors.GameRules
+namespace Assambra.General.Editors.GameRules
 {
     public class ReplacedByAttributeRule : GameRuleBase
     {

@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public class VerticalLayoutBlock : IDisposable
     {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using UnityEngine;
 
-namespace Devdog.General.UI
+namespace Assambra.General.UI
 {
     [RequireComponent(typeof(Animator))]
     public sealed class AnimatorHelper : MonoBehaviour

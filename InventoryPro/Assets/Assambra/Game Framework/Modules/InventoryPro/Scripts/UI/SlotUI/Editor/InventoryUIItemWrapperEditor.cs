@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System;
-using Devdog.InventoryPro;
-using Devdog.InventoryPro.UI;
+using Assambra.InventoryPro;
+using Assambra.InventoryPro.UI;
 using UnityEditor;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(ItemCollectionSlotUIBase), true)]
     public partial class InventoryUIItemWrapperEditor : Editor

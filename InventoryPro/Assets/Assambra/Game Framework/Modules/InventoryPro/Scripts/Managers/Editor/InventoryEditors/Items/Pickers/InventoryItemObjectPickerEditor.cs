@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.Editors;
+using Assambra.General.Editors;
 using UnityEditor;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomObjectPicker(typeof(InventoryItemBase), 10)]
     public class InventoryItemObjectPickerEditor : InventoryProObjectPickerBase

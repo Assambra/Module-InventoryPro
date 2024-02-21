@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using Devdog.General.UI;
+using Assambra.General.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     [RequireComponent(typeof(ItemCollectionBase))]
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "UI Helpers/Drag accepter UI")]

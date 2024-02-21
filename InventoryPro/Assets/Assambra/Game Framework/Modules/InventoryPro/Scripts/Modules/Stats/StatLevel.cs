@@ -1,10 +1,10 @@
 ﻿using System;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
-using Devdog.InventoryPro.UI;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
+using Assambra.InventoryPro.UI;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [System.Serializable]
     public partial class StatLevel

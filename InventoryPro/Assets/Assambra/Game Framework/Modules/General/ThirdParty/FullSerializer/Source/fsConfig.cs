@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Devdog.General.ThirdParty.FullSerializer {
+namespace Assambra.General.ThirdParty.FullSerializer {
     // Global configuration options.
     public static class fsGlobalConfig {
         /// <summary>

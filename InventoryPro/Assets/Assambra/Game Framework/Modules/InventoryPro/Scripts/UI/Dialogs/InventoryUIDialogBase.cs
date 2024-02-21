@@ -1,11 +1,11 @@
 ﻿using System;
 using UnityEngine;
 using System.Collections;
-using Devdog.General;
-using Devdog.General.UI;
+using Assambra.General;
+using Assambra.General.UI;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro.Dialogs
+namespace Assambra.InventoryPro.Dialogs
 {
 
     public delegate void InventoryUIDialogCallback(InventoryUIDialogBase dialog);

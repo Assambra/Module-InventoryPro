@@ -3,7 +3,7 @@ using System.IO;
 using System.Reflection;
 using UnityEngine;
 
-namespace Devdog.General.ThirdParty.FullSerializer
+namespace Assambra.General.ThirdParty.FullSerializer
 {
     internal static class AotHelpers
     {

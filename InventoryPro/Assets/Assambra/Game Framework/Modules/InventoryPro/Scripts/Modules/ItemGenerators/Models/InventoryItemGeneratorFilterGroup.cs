@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [Serializable]
     public partial class InventoryItemGeneratorFilterGroup : InventoryItemFilters

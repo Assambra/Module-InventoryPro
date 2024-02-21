@@ -4,12 +4,12 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using System;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.General.UI;
-using Devdog.InventoryPro.UI;
+using Assambra.General;
+using Assambra.General.UI;
+using Assambra.InventoryPro.UI;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Collection UI/Slot UI")]
     public partial class ItemCollectionSlotUI : ItemCollectionSlotUIBase, IBeginDragHandler, IEndDragHandler, IDragHandler, IPointerUpHandler, IPointerDownHandler, IPointerEnterHandler, IPointerExitHandler

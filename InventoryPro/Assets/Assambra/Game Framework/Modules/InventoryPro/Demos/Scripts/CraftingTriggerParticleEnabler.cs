@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 
 
-namespace Devdog.InventoryPro.Demo
+namespace Assambra.InventoryPro.Demo
 {
     public class CraftingTriggerParticleEnabler : MonoBehaviour
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using UnityEngine;
 using System.Collections;
-using Devdog.General.UI;
+using Assambra.General.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     public partial class InventoryUIUtility
     {

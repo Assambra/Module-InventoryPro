@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public interface IEditorCrud
     {

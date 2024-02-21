@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.InventoryPro;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public partial class FilterGroupsItemGenerator : IItemGenerator
     {

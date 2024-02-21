@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
+using Assambra.General;
 
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public class SkillExampleInventoryItemType : InventoryItemBase
     {

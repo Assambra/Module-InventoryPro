@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public abstract class PlayerTriggerHandlerBase<T> : MonoBehaviour, IPlayerTriggerHandler where T : UnityEngine.Component
     {

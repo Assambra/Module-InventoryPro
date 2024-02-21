@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public abstract class IntegrationHelperEditorBase : EditorWindow
     {
@@ -54,7 +54,7 @@ namespace Devdog.General.Editors
             GUILayout.Space(10);
 
             GUI.color = _grayishColor;
-            EditorGUILayout.LabelField(description, Devdog.General.Editors.EditorStyles.labelStyle);
+            EditorGUILayout.LabelField(description, Assambra.General.Editors.EditorStyles.labelStyle);
             GUI.color = Color.white;
 
             if (showBox)

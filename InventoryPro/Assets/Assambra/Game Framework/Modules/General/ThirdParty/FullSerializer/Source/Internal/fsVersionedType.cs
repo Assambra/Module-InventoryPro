@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devdog.General.ThirdParty.FullSerializer.Internal {
+namespace Assambra.General.ThirdParty.FullSerializer.Internal {
     public struct fsVersionedType {
         /// <summary>
         /// The direct ancestors that this type can import.

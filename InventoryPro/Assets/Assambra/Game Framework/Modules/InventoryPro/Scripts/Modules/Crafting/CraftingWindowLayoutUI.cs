@@ -2,11 +2,11 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 using UnityEngine.Assertions;
-using Devdog.General.UI;
+using Assambra.General.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Windows/Crafting layout")]
     [RequireComponent(typeof(UIWindow))]

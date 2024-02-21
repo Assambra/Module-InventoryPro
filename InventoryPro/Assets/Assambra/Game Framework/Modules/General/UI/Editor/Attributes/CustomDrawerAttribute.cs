@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using UnityEngine.Assertions;
 
-namespace Devdog.General.Editors.ReflectionDrawers
+namespace Assambra.General.Editors.ReflectionDrawers
 {
     [AttributeUsage(AttributeTargets.Class)]
     public class CustomDrawerAttribute : Attribute

@@ -2,10 +2,10 @@
 using UnityEditor;
 using System;
 using System.Collections.Generic;
-using Devdog.General.Editors;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using Assambra.General.Editors;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(CraftingWindowStandardUI), true)]
     public class CraftingWindowStandardUIEditor : InventoryEditorBase

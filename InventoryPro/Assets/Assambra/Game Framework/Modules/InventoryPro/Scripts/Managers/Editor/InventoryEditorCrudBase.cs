@@ -2,12 +2,12 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.General.Editors;
-using Devdog.General.Editors.ReflectionDrawers;
+using Assambra.General;
+using Assambra.General.Editors;
+using Assambra.General.Editors.ReflectionDrawers;
 using UnityEditor;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public abstract class InventoryEditorCrudBase<T> : EditorCrudBase<T> where T : class
     {

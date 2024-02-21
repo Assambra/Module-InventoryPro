@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     [System.Serializable]
     public class Asset<T> : IAsset where T : UnityEngine.Object

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Devdog.General.Editors.GameRules;
+using Assambra.General.Editors.GameRules;
 using UnityEditor;
 using UnityEngine;
 

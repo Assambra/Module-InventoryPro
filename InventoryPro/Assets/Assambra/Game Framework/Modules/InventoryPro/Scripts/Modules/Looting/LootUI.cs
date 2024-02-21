@@ -4,13 +4,13 @@ using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General.UI;
-using Devdog.InventoryPro;
-using Devdog.InventoryPro.UI;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General.UI;
+using Assambra.InventoryPro;
+using Assambra.InventoryPro.UI;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Windows/Loot")]
     [RequireComponent(typeof(UIWindow))]

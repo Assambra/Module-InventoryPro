@@ -1,10 +1,10 @@
 ﻿using System;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     /// <summary>
     /// An item in the context menu (visual item)

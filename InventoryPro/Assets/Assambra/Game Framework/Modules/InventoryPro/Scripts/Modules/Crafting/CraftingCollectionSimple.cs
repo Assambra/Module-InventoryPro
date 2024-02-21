@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.InventoryPro;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.InventoryPro;
 using UnityEngine;
-using Devdog.InventoryPro.UI;
+using Assambra.InventoryPro.UI;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public partial class CraftingCollectionSimple : ItemCollectionBase
     {

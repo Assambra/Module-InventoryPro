@@ -5,7 +5,7 @@ using UnityEditor;
 using System;
 using System.Reflection;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public static class EditorReflectionUtility
     {

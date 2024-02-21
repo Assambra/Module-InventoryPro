@@ -4,7 +4,7 @@ using UnityEditor;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
 
     [CustomEditor(typeof(InventoryManager))]

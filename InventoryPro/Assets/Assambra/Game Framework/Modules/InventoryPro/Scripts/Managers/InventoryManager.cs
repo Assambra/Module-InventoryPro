@@ -2,12 +2,12 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
-using Devdog.InventoryPro.Dialogs;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
+using Assambra.InventoryPro.Dialogs;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Managers/InventoryManager")]
     public partial class InventoryManager : ManagerBase<InventoryManager>

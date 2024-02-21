@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.General.Localization;
+using Assambra.General.Localization;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Devdog.General.Localization
+namespace Assambra.General.Localization
 {
     public abstract class LocalizedObjectBase<T> : ILocalizedObject<T>
         where T : UnityEngine.Object

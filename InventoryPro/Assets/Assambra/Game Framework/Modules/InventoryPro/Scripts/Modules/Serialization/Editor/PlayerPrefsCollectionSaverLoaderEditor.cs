@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEditor;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(PlayerPrefsCollectionSaverLoader))]
     public class PlayerPrefsCollectionSaverLoaderEditor : Editor

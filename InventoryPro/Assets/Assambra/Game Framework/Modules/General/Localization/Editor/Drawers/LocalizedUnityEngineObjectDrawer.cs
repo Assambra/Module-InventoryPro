@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Reflection;
-using Devdog.General.Editors.ReflectionDrawers;
+using Assambra.General.Editors.ReflectionDrawers;
 using UnityEditor;
 
-namespace Devdog.General.Localization.Editors
+namespace Assambra.General.Localization.Editors
 {
     [CustomDrawer(typeof(LocalizedObject))]
     public class LocalizedUnityEngineObjectDrawer : LocalizedObjectDrawerBase<UnityEngine.Object, LocalizedObject>

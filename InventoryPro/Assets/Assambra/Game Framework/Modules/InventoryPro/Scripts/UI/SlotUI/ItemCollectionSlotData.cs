@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System;
-using Devdog.General;
+using Assambra.General;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// Used as data object, doesn't show any info.

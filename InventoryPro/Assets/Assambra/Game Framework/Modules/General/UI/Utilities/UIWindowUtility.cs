@@ -1,7 +1,7 @@
 ﻿using System;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 
-namespace Devdog.General.UI
+namespace Assambra.General.UI
 {
     public static class UIWindowUtility
     {

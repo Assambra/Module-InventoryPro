@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public abstract class InventoryPlayerBase : MonoBehaviour
     {

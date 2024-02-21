@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Devdog.InventoryPro.Editors;
+using Assambra.InventoryPro.Editors;
 using UnityEditor;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [CustomPropertyDrawer(typeof(StatRequirement), true)]
     public partial class StatRequirementEditor : PropertyDrawer

@@ -3,7 +3,7 @@
 using System;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public sealed class ObjectNullRelevancy : IObjectRelevancy
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class CustomOverrideProperty
     {

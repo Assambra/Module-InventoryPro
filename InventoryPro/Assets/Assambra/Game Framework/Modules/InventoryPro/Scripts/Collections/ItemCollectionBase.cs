@@ -3,12 +3,12 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
-using Devdog.InventoryPro.UI;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
+using Assambra.InventoryPro.UI;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// An abstract base class for collections. When creating a new collection, extend from this class.

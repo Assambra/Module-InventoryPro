@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine;
 using UnityEngine.UI;
-using Devdog.General.UI;
+using Assambra.General.UI;
 using UnityEngine.Serialization;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [RequireComponent(typeof(UIWindow))]
     public partial class SelectableObjectInfoUI : MonoBehaviour

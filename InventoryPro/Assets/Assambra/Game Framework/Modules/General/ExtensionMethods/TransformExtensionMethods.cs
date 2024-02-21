@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public static class TransformExtensionMethods
     {

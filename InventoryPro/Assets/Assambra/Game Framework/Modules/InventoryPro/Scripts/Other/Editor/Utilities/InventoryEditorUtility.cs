@@ -4,13 +4,13 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Reflection;
 using System;
-using Devdog.General;
-using Devdog.General.Editors;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using Assambra.General;
+using Assambra.General.Editors;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
-    using Devdog.InventoryPro;
+    using Assambra.InventoryPro;
 
     using Object = UnityEngine.Object;
 

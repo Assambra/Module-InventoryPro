@@ -1,15 +1,15 @@
 ﻿using System;
 using UnityEngine;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.General;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.General;
 using UnityEngine.UI;
-using Devdog.InventoryPro.UI;
-using Devdog.General.UI;
+using Assambra.InventoryPro.UI;
+using Assambra.General.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
-    [RequireComponent(typeof(Devdog.General.UI.UIWindow))]
+    [RequireComponent(typeof(Assambra.General.UI.UIWindow))]
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Windows Other/Infobox")]
     public partial class InfoBoxUI : MonoBehaviour
     {
@@ -109,7 +109,7 @@ namespace Devdog.InventoryPro
         protected InventoryItemBase currentItem;
         protected TriggerBase currentTrigger;
 
-        private Devdog.General.UI.UIWindow window { get; set; }
+        private Assambra.General.UI.UIWindow window { get; set; }
         protected ComponentPool<InfoBoxRowUI> poolRows { get; set; }
         protected GameObjectPool poolSeparators { get; set; }
         protected GameObjectPool poolCategoryBoxes { get; set; }
@@ -128,7 +128,7 @@ namespace Devdog.InventoryPro
         {
             rectTransform = GetComponent<RectTransform>();
             defaultPivot = rectTransform.pivot;
-            window = GetComponent<Devdog.General.UI.UIWindow>();
+            window = GetComponent<Assambra.General.UI.UIWindow>();
 
             poolRows = new ComponentPool<InfoBoxRowUI>(infoBoxRowPrefab, 32);
             if(separatorPrefab != null)

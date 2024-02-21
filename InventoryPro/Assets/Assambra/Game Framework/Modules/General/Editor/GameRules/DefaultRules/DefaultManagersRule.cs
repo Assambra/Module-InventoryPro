@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using UnityEditor;
-using Devdog.General.Localization;
+using Assambra.General.Localization;
 
-namespace Devdog.General.Editors.GameRules
+namespace Assambra.General.Editors.GameRules
 {
     public class DefaultManagersRule : ManagersRuleBase
     {

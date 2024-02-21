@@ -6,14 +6,14 @@
 
 using UnityEngine;
 using System.Collections;
-using Devdog.General;
-using Devdog.InventoryPro.UI;
+using Assambra.General;
+using Assambra.InventoryPro.UI;
 using UnityEngine.UI;
 
 
-namespace Devdog.InventoryPro.Dialogs
+namespace Assambra.InventoryPro.Dialogs
 {
-    using Devdog.InventoryPro.UI;
+    using Assambra.InventoryPro.UI;
 
     public delegate void IntValDialogCallback(int value);
 

@@ -1,9 +1,9 @@
-﻿using Devdog.General;
-using Devdog.General.Editors.GameRules;
+﻿using Assambra.General;
+using Assambra.General.Editors.GameRules;
 using UnityEngine;
 using UnityEditor;
 
-namespace Devdog.InventoryPro.Editors.GameRules
+namespace Assambra.InventoryPro.Editors.GameRules
 {
     public class InventoryPlayerRule : GameRuleBase
     {

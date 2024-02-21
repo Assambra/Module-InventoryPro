@@ -1,8 +1,8 @@
 ﻿using System;
-using Devdog.General.UI;
+using Assambra.General.UI;
 using UnityEngine;
 
-namespace Devdog.General.UI
+namespace Assambra.General.UI
 {
     [System.Serializable]
     public class UIWindowField : UIWindowField<UIWindow>

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public abstract class ItemCollectionSlotUIBase : MonoBehaviour, IPoolable, ISelectHandler, ICollectionItem
     {

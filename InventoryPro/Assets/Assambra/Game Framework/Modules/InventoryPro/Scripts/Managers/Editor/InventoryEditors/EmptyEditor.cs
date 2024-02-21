@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Devdog.General.Editors;
+using Assambra.General.Editors;
 using UnityEditor;
 using UnityEngine;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class EmptyEditor : IEditorCrud
     {

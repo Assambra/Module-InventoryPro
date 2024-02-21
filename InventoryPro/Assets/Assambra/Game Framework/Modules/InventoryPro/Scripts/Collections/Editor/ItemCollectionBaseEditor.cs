@@ -2,10 +2,10 @@
 using UnityEditor;
 using System;
 using System.Collections.Generic;
-using Devdog.InventoryPro.UI;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using Assambra.InventoryPro.UI;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(ItemCollectionBase), true)]
     [CanEditMultipleObjects()]

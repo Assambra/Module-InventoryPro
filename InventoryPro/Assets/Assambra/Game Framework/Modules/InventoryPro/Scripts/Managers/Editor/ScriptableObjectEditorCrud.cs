@@ -2,11 +2,11 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.General.Editors;
+using Assambra.General;
+using Assambra.General.Editors;
 using UnityEditor;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public abstract class ScriptableObjectEditorCrud<T> : InventoryEditorCrudBase<T> where T : ScriptableObject
     {

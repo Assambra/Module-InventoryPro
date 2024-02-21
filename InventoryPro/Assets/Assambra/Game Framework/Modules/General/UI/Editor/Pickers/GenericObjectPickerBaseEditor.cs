@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public abstract class GenericObjectPickerBaseEditor<T> : BetterEditorWindow where T : class
     {

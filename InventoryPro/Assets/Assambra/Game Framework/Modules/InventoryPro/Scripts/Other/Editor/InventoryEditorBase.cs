@@ -5,7 +5,7 @@ using System.Net.Mime;
 using System.Text;
 using UnityEditor;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public abstract class InventoryEditorBase : Editor
     {

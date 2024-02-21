@@ -1,10 +1,10 @@
 ﻿using System;
 using UnityEngine;
-using Devdog.General;
-using Devdog.General.UI;
+using Assambra.General;
+using Assambra.General.UI;
 using UnityEngine.EventSystems;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     [Obsolete("Use Devdog.General.UI.DraggableWindow instead")]
     [ReplacedBy(typeof(DraggableWindow))]

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.General.UI;
+using Assambra.General;
+using Assambra.General.UI;
 using UnityEngine;
 using UnityEngine.Assertions;
 using UnityEngine.EventSystems;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [RequireComponent(typeof(ItemTrigger))]
     [DisallowMultipleComponent]

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public class ScriptPickerEditor : GenericObjectPickerBaseEditor<Type>
     {

@@ -1,14 +1,14 @@
 using System;
 using UnityEngine;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Reflection;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine.Assertions;
 using UnityEngine.Serialization;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// Used to represent items that can be equipped by the user, this includes armor, weapons, etc.

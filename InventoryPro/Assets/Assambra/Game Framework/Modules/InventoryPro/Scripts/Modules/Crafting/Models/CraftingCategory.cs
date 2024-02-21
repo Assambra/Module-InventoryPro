@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using System;
 using System.Collections.Generic;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [System.Serializable]
     public partial class CraftingCategory : ScriptableObject

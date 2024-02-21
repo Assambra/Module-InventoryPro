@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// Used to represent an item that cannot be used in any way.

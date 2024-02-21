@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// Used to define categories for items, categories can have a global cooldown, this can be usefull to cooldown all potions for example.

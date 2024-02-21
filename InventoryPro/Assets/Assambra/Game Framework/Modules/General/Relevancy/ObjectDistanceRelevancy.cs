@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     [RequireComponent(typeof(SphereCollider))]
     public sealed class ObjectDistanceRelevancy : MonoBehaviour, IObjectRelevancy

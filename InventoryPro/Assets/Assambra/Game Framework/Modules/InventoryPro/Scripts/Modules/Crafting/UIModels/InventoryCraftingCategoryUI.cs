@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System;
-using Devdog.General;
+using Assambra.General;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     /// <summary>
     /// A single row in the infobox.

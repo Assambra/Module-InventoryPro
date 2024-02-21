@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Text;
-using Devdog.General;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     [CreateAssetMenu(menuName = InventoryPro.CreateAssetMenuPath + "Character equipment handler")]
     public partial class CharacterEquipmentHandler : CharacterEquipmentHandlerBase

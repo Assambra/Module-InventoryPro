@@ -1,8 +1,8 @@
 ﻿using System;
-using Devdog.General.Editors;
+using Assambra.General.Editors;
 using Object = UnityEngine.Object;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomObjectPicker(typeof(CraftingCategory))]
     public class CraftingCategoryObjectPickerEditor : InventoryProObjectPickerBase

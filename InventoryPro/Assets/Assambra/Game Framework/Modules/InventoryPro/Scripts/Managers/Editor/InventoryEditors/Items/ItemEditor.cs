@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Devdog.General;
-using Devdog.General.Editors;
+using Assambra.General;
+using Assambra.General.Editors;
 using UnityEditor;
 using UnityEngine;
 using EditorUtility = UnityEditor.EditorUtility;
 using Object = UnityEngine.Object;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
 
 #if UNITY_2018_3_OR_NEWER

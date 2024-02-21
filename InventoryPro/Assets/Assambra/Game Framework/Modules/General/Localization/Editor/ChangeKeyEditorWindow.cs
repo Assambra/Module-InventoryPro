@@ -5,7 +5,7 @@ using System.Text;
 using UnityEditor;
 using UnityEngine;
 
-namespace Devdog.General.Localization.Editors
+namespace Assambra.General.Localization.Editors
 {
     internal class ChangeKeyEditorWindow : EditorWindow
     {

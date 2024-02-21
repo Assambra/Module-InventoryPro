@@ -4,19 +4,19 @@ using System.Collections;
 using UnityEditor;
 using System.Collections.Generic;
 using System.Reflection;
-using Devdog.General.Editors;
-using Devdog.General.Editors.GameRules;
+using Assambra.General.Editors;
+using Assambra.General.Editors.GameRules;
 using EditorUtility = UnityEditor.EditorUtility;
-using EditorStyles = Devdog.General.Editors.EditorStyles;
+using EditorStyles = Assambra.General.Editors.EditorStyles;
 
 #if PLY_GAME
 using Devdog.InventoryPro.Integration.plyGame.Editors;
 #endif
 
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
-    using Devdog.General.ThirdParty.UniLinq;
+    using Assambra.General.ThirdParty.UniLinq;
 
     public class InventoryMainEditor : BetterEditorWindow
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public class DestroyAfterSeconds : MonoBehaviour
     {

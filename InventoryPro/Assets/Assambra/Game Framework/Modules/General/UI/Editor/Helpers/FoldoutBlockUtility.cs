@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.Editors.ReflectionDrawers;
+using Assambra.General.Editors.ReflectionDrawers;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     public static class FoldoutBlockUtility
     {

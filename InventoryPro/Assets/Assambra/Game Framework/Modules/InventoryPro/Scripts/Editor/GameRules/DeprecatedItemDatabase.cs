@@ -1,13 +1,13 @@
 ﻿using System;
-using Devdog.General;
-using Devdog.General.Editors;
-using Devdog.General.Editors.GameRules;
+using Assambra.General;
+using Assambra.General.Editors;
+using Assambra.General.Editors.GameRules;
 using UnityEngine;
 using UnityEditor;
 
 #pragma warning disable 618
 
-namespace Devdog.InventoryPro.Editors.GameRules
+namespace Assambra.InventoryPro.Editors.GameRules
 {
     public class DeprecatedItemDatabase : GameRuleBase
     {

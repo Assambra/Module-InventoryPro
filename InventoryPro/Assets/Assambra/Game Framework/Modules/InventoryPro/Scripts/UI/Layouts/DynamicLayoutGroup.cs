@@ -1,12 +1,12 @@
 ﻿using System;
 using UnityEngine;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
-using Devdog.InventoryPro;
+using Assambra.General.ThirdParty.UniLinq;
+using Assambra.InventoryPro;
 using UnityEngine.Assertions;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "Layout/Dynamic Layout Group")]
     public class DynamicLayoutGroup : LayoutGroup

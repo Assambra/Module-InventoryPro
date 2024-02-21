@@ -4,7 +4,7 @@ using UnityEngine;
 
 #endif
 
-namespace Devdog.InventoryPro.UnityStandardAssets
+namespace Assambra.InventoryPro.UnityStandardAssets
 {
     [ExecuteInEditMode]
     public class AutoCam : PivotBasedCameraRig

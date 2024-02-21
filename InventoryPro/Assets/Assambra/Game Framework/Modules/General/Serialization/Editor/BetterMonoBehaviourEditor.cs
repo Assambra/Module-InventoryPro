@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEditor;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     [CustomEditor(typeof(BetterMonoBehaviour), true)]
     public class BetterMonoBehaviourEditor : BetterUnityEditorBase

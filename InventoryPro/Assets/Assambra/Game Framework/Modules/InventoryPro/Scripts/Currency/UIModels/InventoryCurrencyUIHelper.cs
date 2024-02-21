@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro.UI
+namespace Assambra.InventoryPro.UI
 {
     using UnityEngine.UI;
 

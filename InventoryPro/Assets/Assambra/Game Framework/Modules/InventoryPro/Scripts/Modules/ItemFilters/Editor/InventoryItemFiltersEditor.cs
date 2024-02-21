@@ -2,9 +2,9 @@
 using UnityEditor;
 using System;
 using System.Collections.Generic;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
 
     [CustomPropertyDrawer(typeof(InventoryItemFilters))]

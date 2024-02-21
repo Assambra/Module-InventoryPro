@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     [CustomPropertyDrawer(typeof(ForceCustomObjectPickerAttribute))]
     public class ForceCustomObjectPickerAttributeEditor : PropertyDrawer

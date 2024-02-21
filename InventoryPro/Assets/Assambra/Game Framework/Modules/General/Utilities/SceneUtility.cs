@@ -11,7 +11,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 #endif
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public static class SceneUtility
     {

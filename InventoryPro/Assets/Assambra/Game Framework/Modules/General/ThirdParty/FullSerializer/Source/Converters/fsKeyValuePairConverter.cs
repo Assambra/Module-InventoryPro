@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Devdog.General.ThirdParty.FullSerializer.Internal {
+namespace Assambra.General.ThirdParty.FullSerializer.Internal {
     public class fsKeyValuePairConverter : fsConverter {
         public override bool CanProcess(Type type) {
             return

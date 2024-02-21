@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public interface IItemsSaver
     {

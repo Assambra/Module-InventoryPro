@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Reflection;
-using Devdog.General.Editors;
+using Assambra.General.Editors;
 using UnityEngine;
 using UnityEditor;
 
-namespace Devdog.General.Editors.ReflectionDrawers
+namespace Assambra.General.Editors.ReflectionDrawers
 {
     public static class ReflectionDrawerStyles
     {

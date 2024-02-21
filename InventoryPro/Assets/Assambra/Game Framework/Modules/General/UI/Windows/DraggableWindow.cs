@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.EventSystems;
 
-namespace Devdog.General.UI
+namespace Assambra.General.UI
 {
     [RequireComponent(typeof(UIWindow))]
     public partial class DraggableWindow : MonoBehaviour, IBeginDragHandler, IDragHandler, IPointerDownHandler

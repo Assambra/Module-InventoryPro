@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public abstract class PoolBase<T> : IEnumerable<T>
     {

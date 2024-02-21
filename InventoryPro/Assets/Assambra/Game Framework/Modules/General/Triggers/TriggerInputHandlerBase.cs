@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.UI;
+using Assambra.General.UI;
 using UnityEngine;
 using UnityEngine.Assertions;
 using UnityEngine.EventSystems;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public abstract class TriggerInputHandlerBase : MonoBehaviour, ITriggerInputHandler, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
     {

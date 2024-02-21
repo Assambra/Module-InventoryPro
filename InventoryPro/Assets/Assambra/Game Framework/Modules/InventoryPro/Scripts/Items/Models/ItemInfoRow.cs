@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     public partial class ItemInfoRow
     {

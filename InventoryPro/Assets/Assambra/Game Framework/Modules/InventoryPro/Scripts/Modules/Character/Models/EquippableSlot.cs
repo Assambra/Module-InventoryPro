@@ -3,9 +3,9 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.Assertions;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
-    using Devdog.General.ThirdParty.UniLinq;
+    using Assambra.General.ThirdParty.UniLinq;
 
 //    [RequireComponent(typeof(ItemCollectionSlotUI))]
     [AddComponentMenu(InventoryPro.AddComponentMenuPath + "UI Helpers/Equippable slot")]

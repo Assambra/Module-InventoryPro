@@ -3,9 +3,9 @@ using UnityEditor;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Devdog.InventoryPro;
+using Assambra.InventoryPro;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     [CustomEditor(typeof(ItemPouchInventoryItem), true)]
     public class ItemPouchInventoryItem : InventoryItemBaseEditor

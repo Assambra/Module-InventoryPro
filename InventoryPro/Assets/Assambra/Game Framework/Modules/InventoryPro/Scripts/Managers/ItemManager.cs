@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
-using Devdog.General;
+using Assambra.General;
 using UnityEngine.Serialization;
 
 #if UNITY_EDITOR
 #endif
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
 	[AddComponentMenu(InventoryPro.AddComponentMenuPath + "Managers/Item manager")]
     public partial class ItemManager : ManagerBase<ItemManager>

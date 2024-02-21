@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     [DisallowMultipleComponent]
     public partial class Player2D : Player

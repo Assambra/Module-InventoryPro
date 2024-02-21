@@ -7,7 +7,7 @@
 
 using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using System.Reflection;
 
 #if USE_TYPEINFO
@@ -39,7 +39,7 @@ namespace System {
 }
 #endif
 
-namespace Devdog.General.ThirdParty.FullSerializer.Internal {
+namespace Assambra.General.ThirdParty.FullSerializer.Internal {
     /// <summary>
     /// This wraps reflection types so that it is portable across different Unity runtimes.
     /// </summary>

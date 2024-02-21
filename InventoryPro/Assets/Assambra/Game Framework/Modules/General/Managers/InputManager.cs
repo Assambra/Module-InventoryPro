@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devdog.General.ThirdParty.UniLinq;
+using Assambra.General.ThirdParty.UniLinq;
 using UnityEngine;
 
-namespace Devdog.General
+namespace Assambra.General
 {
     public partial class InputManager : ManagerBase<InputManager>
     {

@@ -3,12 +3,12 @@ using UnityEngine.EventSystems;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using Devdog.General;
-using Devdog.InventoryPro.UI;
-using Devdog.InventoryPro;
+using Assambra.General;
+using Assambra.InventoryPro.UI;
+using Assambra.InventoryPro;
 using UnityEngine.UI;
 
-namespace Devdog.InventoryPro
+namespace Assambra.InventoryPro
 {
     /// <summary>
     /// How long a message should last.

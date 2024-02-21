@@ -1,10 +1,10 @@
 ﻿using System;
 using UnityEngine;
 using System.Collections;
-using Devdog.General.UI;
+using Assambra.General.UI;
 using UnityEditor;
 
-namespace Devdog.General.Editors
+namespace Assambra.General.Editors
 {
     [CustomEditor(typeof(UIWindow), true)]
     [CanEditMultipleObjects]

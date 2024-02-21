@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Devdog.General.Editors;
+using Assambra.General.Editors;
 using UnityEditor;
 using Object = UnityEngine.Object;
 
-namespace Devdog.InventoryPro.Editors
+namespace Assambra.InventoryPro.Editors
 {
     public class InventoryProObjectPickerBase : ObjectPickerBaseEditor
     {
